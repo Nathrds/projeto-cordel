@@ -3,7 +3,7 @@
 <hr>
 <br/>
 
-## [Projeto Cordel](https://nathrds.github.io/site-android/)
+## [Projeto Cordel](https://nathrds.github.io/projeto-cordel/)
 
 * Projeto realizado pelo curso de html e css do [Curso em Vídeo](https://www.cursoemvideo.com/)
 * Texto de Milton Duarte
@@ -22,3 +22,4 @@
 <br/>
 
 ## QR Code - Projeto Cordel
+![projeto-cordel](https://user-images.githubusercontent.com/106173624/201764122-ed3b270a-8927-4418-87ec-f5dac4febb96.png)
